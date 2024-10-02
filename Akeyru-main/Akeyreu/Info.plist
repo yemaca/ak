@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_roku._tcp.</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need location services to find devices on your network.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>We need access to your local network to find Roku devices.</string>
+</dict>
+</plist>
